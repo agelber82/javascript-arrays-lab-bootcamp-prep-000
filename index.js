@@ -27,4 +27,4 @@ function prependKitten(name) {
   var newKittens = ["Arnold", ...kittens];
   return newKittens;
 }
-Seeking a position as an analyst with a company who values integrity, professionalism, and employee engagement. Offering strong analyzing and inquisitive skills to improve system performances through accurate information presentation.  
+var kittens = 
