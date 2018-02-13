@@ -30,5 +30,10 @@ function prependKitten(name) {
 var kittens = ['Milo', 'Otis', 'Garfield'];
 function removeLastKitten() {
   var newKittens = []
+  return newKittens
 }
+var kittens = ['Milo', 'Otis', 'Garfield'];
+function removeFirstKitten() {
+  var newKittens = []
+  return newKittens
 }
